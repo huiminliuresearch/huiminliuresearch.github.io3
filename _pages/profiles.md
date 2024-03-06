@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: Kitty
+title: kitty
 description: my cat
 nav: true
 nav_order: 7
