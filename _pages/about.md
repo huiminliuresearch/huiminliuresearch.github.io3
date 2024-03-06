@@ -22,8 +22,10 @@ Huimin Liu is a Ph.D. candidate (ABD) in Business Administration at Fox School o
 
 Her research interests include tourist experience, online and offline tourist behavior, and trauma in tourism contexts. She has participated in various academic and professional research projects, such as the Philadelphia International Airport Passenger Survey Project and the World Tourism Organization (UNWTO) internships. She has also acquired multiple skills and certifications, such as IBM SPSS, experimental methods, meta-analysis, and structural equation modeling. She is motivated by the goal of advancing the knowledge and practice of tourism and hospitality and general business through data-driven insights and solutions.
 
-- [LinkedIn](https://www.linkedin.com/in/huimin-liu-245409178/) <!-- Replace with your LinkedIn URL -->
-- [Orchid](https://orcid.org/my-orcid?orcid=0000-0003-0933-6371) <!-- Replace with your Orchid URL -->
-- [School Profile Page](https://www.fox.temple.edu/directory/huimin-liu) <!-- Replace with your School Profile URL -->
+<p>
+  <a href="https://www.linkedin.com/in/huimin-liu-245409178/">LinkedIn</a> |
+  <a href="https://orcid.org/my-orcid?orcid=0000-0003-0933-6371">Orchid</a> |
+  <a href="https://www.fox.temple.edu/directory/huimin-liu">School Profile Page</a>
+</p>
 
 <p align="center"><sub>Last Updated: March 2024</sub></p>
