@@ -5,6 +5,8 @@
       value: Huimin Liu
     #- name: Date of Birth
     #  value: 14th March 1879
+    - name: Pronoun
+      value: She/her   
     - name: Languages
       value: English, Chinese
 
