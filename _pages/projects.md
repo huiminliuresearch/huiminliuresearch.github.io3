@@ -9,13 +9,27 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-- Philadelphia International Airport Passenger Survey Project
-I work as a major research assistant in this project from July 2021 to now. I participated in every steps of this project from proposal design, questionnaire design, onsite survey, data analysis to report writing.
+- **Philadelphia International Airport Passenger Survey Project.** Worked as a major research assistant (Jul. 2021 - Jun. 2022) at US-Asia Research Center of Tourism and Hospitality, Temple University. 
+  - **Responsibilities:**
+    - Participated in project bidding.
+    - Involved in proposal writing.
+    - Designed questionnaires.
+    - Conducted onsite surveys.
+    - Carried out monthly analysis and report writing.
+    - Conducted final analysis and authored the final report.
 
+- **Report on the American Tourists Market to China.** Worked as research assistant (Oct. 2020 – Dec. 2020) at US-Asia Research Center of Tourism and Hospitality, Temple University.
+  - **Responsibilities:**
+    - Conducted data analysis and wrote the report.
 
-- Monitoring Center of UNWTO Sustainable Tourism Observatories
-I worked as an intern at UNWTO International Network of Sustainable Tourism Observatories in July, September and October 2018 in tourism destinations Xishuangbanna, Yunnan and Kanas, Xinjiang, China. I collaborated with my team members and conducted onsite obeservation, interview and questionnaire survey and wrote reports on destination sustainability.
+- **Sustainable Tourism Report of Kanas, Xinjiang, China.** Worked as research intern (Sep. 2018 - Oct. 2018) at UNWTO & Sun Yat-sen University.
+  - **Responsibilities:**
+    - Participated in the design of questionnaires and interview questions.
+    - Conducted onsite surveys and interviews.
+    - Wrote the report.
 
-
-- BES Culture Tourism Group
-I worked as an intern at BES Culture Tourism Group in Beijing, China in July 2017. I helped design tourism planning reports for tourism destinations.
+- **Sustainable Tourism Report of Xishuangbanna, Yunnan, China.** Worked as research intern (Jul. 2018 - Aug. 2018) at UNWTO & Sun Yat-sen University.
+  - **Responsibilities:**
+    - Participated in the design of questionnaires and interview questions.
+    - Conducted onsite surveys and interviews.
+    - Wrote the report.
