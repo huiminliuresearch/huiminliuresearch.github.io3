@@ -2,10 +2,12 @@
 layout: page
 permalink: /publications/
 title:  research
-description: Selected papers
+description: My selected papers
 nav: true
 nav_order: 2
 ---
+
+Publication
 
 - Marti, C., Liu, H., Kour, G., Bilgihan, A., & Yu, X. Leveraging Artificial Intelligence in Firm-Generated Online Customer Communities: A Framework and Future Research Agenda. Forthcoming: Journal of Service Management. 
 
