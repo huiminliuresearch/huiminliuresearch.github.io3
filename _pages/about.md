@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Temple University<https://www.temple.edu>. 1801 N Broad st, Phialdelphia, PA.
+subtitle: <a href="https://www.temple.edu">Temple University</a>. 1801 N Broad St, Philadelphia, PA
 
 profile:
   align: right
