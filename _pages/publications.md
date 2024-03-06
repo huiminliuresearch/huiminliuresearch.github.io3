@@ -7,12 +7,11 @@ nav: true
 nav_order: 2
 ---
 
-Publication
+**Publication**
 
-- Marti, C., Liu, H., Kour, G., Bilgihan, A., & Yu, X. Leveraging Artificial Intelligence in Firm-Generated Online Customer Communities: A Framework and Future Research Agenda. Forthcoming: Journal of Service Management. 
+- Marti, C., Liu, H., Kour, G., Bilgihan, A., & Yu, X. Leveraging Artificial Intelligence in Firm-Generated Online Customer Communities: A Framework and Future Research Agenda. Forthcoming: Journal of Service Management.
 
-
-Working papers
+**Working papers**
 
 - Wang, Y., & Liu, H. Patterns of Host Territoriality and Implications for P2P Accommodation Guests’ Experiences. Submitted to: International Journal of Hospitality Management, Under Review.
 
