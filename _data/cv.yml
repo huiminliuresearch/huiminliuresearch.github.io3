@@ -13,7 +13,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD in Business Administration
       institution: Temple University
       year: 2024
       #description:
@@ -23,21 +23,21 @@
       #    contents:
       #      - Sub-description 1.
       #      - Sub-description 2.
-    - title: Master of CS
+    - title: Master of Computer Science
       institution: Georgia Institute of Technology
       year: 2025
       #description:
       #  - Description 1.
       #  - Description 2.
         
-    - title: Master of Tourism Management
+    - title: Master of Tourism and Hospitality Management
       institution: Sun Yat-sen University
       year: 2020
       #description:
       #  - Description 1.
       #  - Description 2.
 
-    - title: Bachelor of Tourism Management
+    - title: Bachelor of Business Administration
       institution: Shandong University
       year: 2017
       #description:
