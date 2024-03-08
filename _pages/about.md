@@ -18,14 +18,26 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-Huimin Liu is a Ph.D. candidate (ABD) in Business Administration at Fox School of Business at Temple University, specializing in tourism and hospitality. She is also a teaching and research assistant, instructing courses on designing tourism experiences and digital portfolio creation, and supporting faculty and students with data analysis and research methods.
-
-Her research interests include tourist experience, online and offline tourist behavior, and trauma in tourism contexts. She has participated in various academic and professional research projects, such as the Philadelphia International Airport Passenger Survey Project and the World Tourism Organization (UNWTO) internships. She has also acquired multiple skills and certifications, such as IBM SPSS, experimental methods, meta-analysis, and structural equation modeling. She is motivated by the goal of advancing the knowledge and practice of tourism and hospitality and general business through data-driven insights and solutions.
-
 <p>
   <a href="https://www.linkedin.com/in/huimin-liu-245409178/">LinkedIn</a> |
   <a href="https://orcid.org/my-orcid?orcid=0000-0003-0933-6371">Orchid</a> |
   <a href="https://www.fox.temple.edu/directory/huimin-liu">School Profile Page</a>
 </p>
+
+Welcome to my website! I'm thrilled to have you here! 😊
+
+I am a Ph.D. candidate (ABD) in Business Administration at Fox School of Business at Temple University, specializing in tourism and hospitality. I am also a teaching and research assistant, instructing courses on designing tourism experiences and digital portfolio creation, and supporting faculty and students with data analysis and research methods.
+
+My research interests include customer experience, digitalization, and trauma in business contexts. I have participated in various academic and professional research projects, such as the Philadelphia International Airport Passenger Survey Project and the World Tourism Organization (UNWTO) internships. I have also acquired multiple research skills, such as netnography, experimental methods, statistical causal inference, meta-analysis, causal trees, and structural equation modeling. 
+
+I am motivated by the goal of advancing the knowledge and practice of tourism and hospitality and general business through data-driven insights and solutions.
+
+## Let's Connect!
+
+Interested in a coffee chat, potential collaboration, or just want to talk? I'm open to discussing new ideas and opportunities. Feel free to reach out!
+
+📧 Email me at: [huiminliu@temple.edu](mailto:huiminliu@temple.edu)
+
+
 
 <p align="center"><sub>Last Updated: March 2024</sub></p>
