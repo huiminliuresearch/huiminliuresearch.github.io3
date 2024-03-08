@@ -32,12 +32,14 @@ My research interests include customer experience, digitalization, and trauma in
 
 I am motivated by the goal of advancing the knowledge and practice of tourism and hospitality and general business through data-driven insights and solutions.
 
-## Let's Connect!
+<h2 align="center">:sparkles: Let's Connect! :sparkles:</h2>
 
-Interested in a coffee chat, potential collaboration, or just want to talk? I'm open to discussing new ideas and opportunities. Feel free to reach out!
+<p align="center">
+Interested in a coffee chat, potential collaboration, or just want to talk? I’m always open to discussing new ideas and opportunities. Don’t hesitate to reach out!
+</p>
 
-📧 Email me at: [huiminliu@temple.edu](mailto:huiminliu@temple.edu)
-
-
+<p align="center">
+  📧 <a href="mailto:huiminliu@temple.edu">Email me</a>
+</p>
 
 <p align="center"><sub>Last Updated: March 2024</sub></p>
