@@ -15,7 +15,7 @@ nav_order: 2
 
 - Wang, Y., & Liu, H. Patterns of Host Territoriality and Implications for P2P Accommodation Guests’ Experiences. Submitted to: International Journal of Hospitality Management, Under Review.
 
-- Liu, Y., Liu, H., Zhang, X., Han, F. & Gao, X. Exploring Review Spam in Tourism and Hospitality: A Preliminary Study. Submitted to: Journal of Hospitality and Tourism Management, Under Review.
+- Liu, Y., Liu, H., Li, X., Han, F. & Gao, X. Exploring Review Spam in Tourism and Hospitality: A Preliminary Study. Submitted to: Journal of Hospitality and Tourism Management, Under Review.
 
 - Liu, H., & Li, X. Does traumatic experience prohibit travel? Impact of pandemic trauma on prevention-focused travel behavior, Targeting Journal: Tourism Management.
 
