@@ -19,6 +19,6 @@ nav_order: 2
 
 - Liu, H., & Li, X. Does traumatic experience prohibit travel? Impact of pandemic trauma on prevention-focused travel behavior, Targeting Journal: Tourism Management.
 
-- Liu, H., Measuring Experience in Tourism and Hospitality Research, Targeting Journal: International Journal of Hospitality Management.
+- Liu, H.,& Li, X. Measuring Experience in Tourism and Hospitality Research, Targeting Journal: International Journal of Hospitality Management.
 
 - Liu, H., Lai, K., & Li, X. Exploring the relationship between whole vs. part destination images: A case study, Targeting Journal: Tourism Management.
