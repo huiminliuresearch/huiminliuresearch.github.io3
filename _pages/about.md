@@ -19,8 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 <p>
-  <a href="https://www.linkedin.com/in/huimin-liu-245409178/">LinkedIn</a> |
-  <a href="https://orcid.org/my-orcid?orcid=0000-0003-0933-6371">Orchid</a> |
+  <a href="https://www.linkedin.com/in/huimin-l-245409178/">LinkedIn</a> |
+  <a href="https://orcid.org/0000-0003-0933-6371">Orchid</a> |
   <a href="https://www.fox.temple.edu/directory/huimin-liu">School Profile Page</a>
 </p>
 
