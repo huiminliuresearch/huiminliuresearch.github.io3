@@ -23,7 +23,9 @@ social: false # includes social icons at the bottom of the page
   <a href="https://orcid.org/my-orcid?orcid=0000-0003-0933-6371">Orchid</a> |
   <a href="https://www.fox.temple.edu/directory/huimin-liu">School Profile Page</a>
 </p>
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="huimin-l-245409178" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/huimin-l-245409178?trk=profile-badge">Huimin L.</a></div>
+              
 Welcome to my website! I'm thrilled to have you here! 😊
 
 I am a Ph.D. candidate (ABD) in Business Administration at Fox School of Business at Temple University, specializing in tourism and hospitality. I am also a teaching and research assistant, instructing courses on designing tourism experiences and digital portfolio creation, and supporting faculty and students with data analysis and research methods.
