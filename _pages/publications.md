@@ -9,7 +9,7 @@ nav_order: 2
 
 **Publication**
 
-- Marti, C., Liu, H., Kour, G., Bilgihan, A., & Yu, X. Leveraging Artificial Intelligence in Firm-Generated Online Customer Communities: A Framework and Future Research Agenda. Forthcoming: Journal of Service Management.
+- Marti, C.L., Liu, H., Kour, G., Bilgihan, A. and Xu, Y. (2024), "Leveraging artificial intelligence in firm-generated online customer communities: a framework and future research agenda", Journal of Service Management, Vol. ahead-of-print No. ahead-of-print. https://doi.org/10.1108/JOSM-10-2023-0443
 
 **Working papers**
 
