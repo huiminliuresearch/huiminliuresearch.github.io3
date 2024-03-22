@@ -21,7 +21,8 @@ social: false # includes social icons at the bottom of the page
 <p>
   <a href="https://www.linkedin.com/in/huimin-l-245409178/">LinkedIn</a> |
   <a href="https://orcid.org/0000-0003-0933-6371">Orchid</a> |
-  <a href="https://www.fox.temple.edu/directory/huimin-liu">School Profile Page</a>
+  <a href="https://www.fox.temple.edu/directory/huimin-liu">School Profile Page</a> |
+  <a href="https://scholar.google.com/citations?user=8Ggp74IAAAAJ&hl=en&authuser=1">Google Scholar</a>
 </p>
 
 Welcome to my website! I'm thrilled to have you here! 😊
