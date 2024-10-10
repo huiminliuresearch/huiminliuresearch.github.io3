@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://www.temple.edu">Temple University</a>. 1801 N Broad St, Philadelphia, PA
+subtitle: <a href="https://www.hkmu.edu.hk">HKMU</a>. 30 Good Shepherd St, Hong Kong SAR, China
 
 profile:
   align: right
