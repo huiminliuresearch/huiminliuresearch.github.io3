@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>huliu@hkmu.edu.hk</p>
+    
     <p>C912</p>
     <p>30 Good Shepherd St, Ho Man Tin</p>
     <p>Hong Kong SAR, China</p>
