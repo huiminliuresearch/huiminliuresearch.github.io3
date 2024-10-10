@@ -27,11 +27,13 @@ social: false # includes social icons at the bottom of the page
 
 Welcome to my website! I'm thrilled to have you here! 😊
 
-I am a Ph.D. candidate (ABD) in Business Administration at Fox School of Business at Temple University, specializing in tourism and hospitality. I am also a teaching and research assistant, instructing courses on designing tourism experiences and digital portfolio creation, and supporting faculty and students with data analysis and research methods.
+I am a Senior Lecturer at the Lee Shau Kee School of Business and Administration, Hong Kong Metropolitan University, specializing in tourism and hospitality management. Prior to joining HKMU, I earned my PhD in Business Administration from the Fox School of Business at Temple University.
 
 My research interests include customer experience, digitalization, and trauma in business contexts. I have participated in various academic and professional research projects, such as the Philadelphia International Airport Passenger Survey Project and the World Tourism Organization (UNWTO) internships. I have also acquired multiple research skills, such as netnography, experimental methods, statistical causal inference, meta-analysis, causal trees, and structural equation modeling. 
 
-I am motivated by the goal of advancing the knowledge and practice of tourism and hospitality and general business through data-driven insights and solutions.
+I teach courses on designing tourism experiences, digital portfolio creation, event management, and introduction to tourism management.
+
+I am motivated by the goal of advancing the knowledge and practice of business through data-driven insights and solutions.
 
 <h2 align="center">:sparkles: Let's Connect! :sparkles:</h2>
 
@@ -40,7 +42,7 @@ Interested in a coffee chat, potential collaboration, or just want to talk? I’
 </p>
 
 <p align="center">
-  📧 <a href="mailto:huiminliu@temple.edu">Email me</a>
+  📧 <a href="mailto:huliu@hkmu.edu.hk">Email me</a>
 </p>
 
-<p align="center"><sub>Last Updated: March 2024</sub></p>
+<p align="center"><sub>Last Updated: Oct. 2024</sub></p>
