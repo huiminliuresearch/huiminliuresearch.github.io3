@@ -11,9 +11,11 @@ nav_order: 2
 
 - Marti, C.L., Liu, H., Kour, G., Bilgihan, A. and Xu, Y. (2024), "Leveraging artificial intelligence in firm-generated online customer communities: a framework and future research agenda", Journal of Service Management, Vol. ahead-of-print No. ahead-of-print. https://doi.org/10.1108/JOSM-10-2023-0443
 
+  
+- Wang, Y., & Liu, H. (2025). Patterns of host territoriality and implications for P2P accommodation guest experience. International Journal of Hospitality Management, 124, 103959.
+
 **Working papers**
 
-- Wang, Y., & Liu, H. Patterns of Host Territoriality and Implications for P2P Accommodation Guests’ Experiences. Submitted to: International Journal of Hospitality Management, Under Review.
 
 - Liu, Y., Liu, H., Li, X., Han, F. & Gao, X. Exploring Review Spam in Tourism and Hospitality: A Preliminary Study. Submitted to: Journal of Hospitality and Tourism Management, Under Review.
 
